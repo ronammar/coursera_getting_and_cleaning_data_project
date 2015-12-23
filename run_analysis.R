@@ -13,7 +13,7 @@ library(stringr)
 library(tidyr)
 
 
-setwd("~/learning/coursera/3 - getting and cleaning data/UCI HAR Dataset/")
+setwd("./UCI HAR Dataset/")
 
 
 mergeLabelandExtract <- function() {
